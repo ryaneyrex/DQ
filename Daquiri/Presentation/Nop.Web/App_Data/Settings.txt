@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=Ryan-PC;Initial Catalog=DaquiriWebsite;Integrated Security=True;Persist Security Info=False
